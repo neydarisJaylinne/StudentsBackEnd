@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\controllers\\studentsgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controllers\\studentsgradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\models\\studentgradecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\models\\studentgradecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\models\\creategradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\models\\creategradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\models\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\models\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|c:\\users\\neyda\\onedrive\\neydaris docs\\study\\devprojects\\back\\neyvs\\schoolapi\\schoolapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD59C276-6BAA-4B54-805A-D51309AC3695}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "SchoolApi\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:32:11.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolApi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:24:53.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\appsettings.json",
+              "RelativeToolTip": "SchoolApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T13:17:28.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Program.cs",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Program.cs",
+              "RelativeToolTip": "SchoolApi\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:16:45.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "SchoolApi\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:16:20.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentGradeCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\StudentGradeCreateDto.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Models\\StudentGradeCreateDto.cs",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\StudentGradeCreateDto.cs",
+              "RelativeToolTip": "SchoolApi\\Models\\StudentGradeCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:15:45.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolApi\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:14:52.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsGradeController.cs",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Controllers\\StudentsGradeController.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Controllers\\StudentsGradeController.cs",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Controllers\\StudentsGradeController.cs",
+              "RelativeToolTip": "SchoolApi\\Controllers\\StudentsGradeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwFAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:13:03.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\Grade.cs",
+              "RelativeToolTip": "SchoolApi\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:14:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateGradeDto.cs",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\CreateGradeDto.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Models\\CreateGradeDto.cs",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\CreateGradeDto.cs",
+              "RelativeToolTip": "SchoolApi\\Models\\CreateGradeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:15:31.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentGrade.cs",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\StudentGrade.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Models\\StudentGrade.cs",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\StudentGrade.cs",
+              "RelativeToolTip": "SchoolApi\\Models\\StudentGrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:14:05.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\neyda\\OneDrive\\NEYDARIS DOCS\\STUDY\\DevProjects\\BACK\\NEYVS\\SchoolApi\\SchoolApi\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:14:30.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
