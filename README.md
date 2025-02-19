@@ -25,8 +25,8 @@ Esta aplicación .NET implementa un CRUD (Crear, Leer, Actualizar, Eliminar) par
 ### Pasos de Instalación
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/neydarisJaylinne/StudentsBackEnd.git
+  cd <nombre_del_directorio_del_proyecto>
    ```
 2. Restaurar paquetes NuGet:
    ```sh
