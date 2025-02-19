@@ -26,7 +26,7 @@ Esta aplicación .NET implementa un CRUD (Crear, Leer, Actualizar, Eliminar) par
 1. Clonar el repositorio:
    ```sh
    git clone https://github.com/neydarisJaylinne/StudentsBackEnd.git
-  cd <nombre_del_directorio_del_proyecto>
+   cd <nombre_del_directorio_del_proyecto>
    ```
 2. Restaurar paquetes NuGet:
    ```sh
